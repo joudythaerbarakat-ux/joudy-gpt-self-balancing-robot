@@ -113,7 +113,7 @@ joudy-gpt-self-balancing-robot/
 ├── docs/
 │   ├── demo.gif          # Live demonstration
 │   └── wiring-diagram.png
-├── cad/                  # SolidWorks chassis files (coming soon)
+├── cad/                  # SolidWorks chassis files 
 └── README.md
 ```
 
