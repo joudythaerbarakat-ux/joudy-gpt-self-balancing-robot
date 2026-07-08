@@ -155,6 +155,6 @@ Theme: *Targeting Smart Sustainable Innovations.*
 
 ## Author
 
-**Joudy Thaer Barakat**  
-Mechatronics Engineering Student, Tishk International University  
-[github.com/JoudyBarakat](https://github.com/JoudyBarakat) · [linkedin.com/in/joudy-barakat](https://linkedin.com/in/joudy-barakat)
+   **Joudy Thaer Barakat**
+   Mechatronics Engineering Student, Tishk International University
+   [LinkedIn](https://linkedin.com/in/joudy-barakat) · joudythaerbarakat@gmail.com 
